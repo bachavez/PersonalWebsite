@@ -1,0 +1,23 @@
+{
+  "name": "08-personalwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachavez/PersonalWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachavez/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/bachavez/PersonalWebsite#readme"
+}
